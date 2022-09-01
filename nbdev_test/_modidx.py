@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'master',
                 'doc_host': 'https://perhba.github.io',
                 'git_url': 'https://github.com/perhba/nbdev-test',
                 'lib_path': 'nbdev_test'},
-  'syms': {'nbdev_test.core': {'nbdev_test.core.foo': ('core.html#foo', 'nbdev_test/core.py')}}}
+  'syms': {'nbdev_test.core': {'nbdev_test.core.say_hello': ('core.html#say_hello', 'nbdev_test/core.py')}}}
